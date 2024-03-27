@@ -51,7 +51,7 @@ developers to write concise and expressive code, promoting functional programmin
 common source of bugs in many programming languages, but Kotlin's type system
 distinguishes nullable and non-nullable types, reducing the risk of null pointer errors.
 
-#Strengths of Kotlin:
+# Strengths of Kotlin:
 1. Interoperability with Java: Seamless integration with Java allows a smooth transition
 for projects and developers from Java to Kotlin. Existing Java libraries and frameworks
 can be easily adopted.
